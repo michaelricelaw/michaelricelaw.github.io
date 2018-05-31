@@ -3,11 +3,12 @@ layout: post
 title:  "Daily Solidity Update - Dual struct mappings, local remixd, modifiers, and more!"
 date:   2018-05-29 19:11:00 -0700
 categories: solidity dailies
+excerpt: In today's edition we talk about about how to look up Solidity struct values, local folders using remixd or remix-ide, Infura, solidity modifiers, and so much more....!
 ---
 
 ## Here’s your daily Solidity update...
 
-...May 29 edition! People were talking about X (on Gitter)...
+...May 29 edition!
 
 ### Community updates
 
