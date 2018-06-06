@@ -3,14 +3,12 @@ layout: post
 title:  "Daily Solidity Update - some late night randomness - IBM's Coursera course, a call for open source contributors, and more"
 date:   2018-06-04 22:54:00 -0700
 categories: solidity dailies
-excerpt: Bunch of late night randomness for you. A little on IBM's Coursera court, Raine's call for help with solgraph, an extended CFP for chain-in, and more....
+excerpt: Bunch of late night randomness for you. A little on IBM's Coursera course, Raine's call for help with solgraph, an extended CFP for chain-in, and more....
 ---
 
 Happy Monday Developers,
 
 What do you have going on this week anyway? What are you excited about? Let me know -- [michael@michaelricelaw.com](mailto:michael@michaelricelaw.com)!
-
-In today's issue we're catching up from the weekend. We've got XXXX, XXXX, and XXXX.
 
 ## Solidity Random Community Updates
 
