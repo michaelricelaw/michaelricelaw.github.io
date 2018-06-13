@@ -18,6 +18,9 @@ email: michael@michaelricelaw.com
 description: >- # this means to ignore newlines until "baseurl:"
   A blog to compile the law into EVM bytecode (and maybe some other platforms
   too).
+
+  This is a blog mostly about Solidity, smart contracts, blockchain, and law. But in California, some may consider it attorney advertising.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: michaelricelaw
