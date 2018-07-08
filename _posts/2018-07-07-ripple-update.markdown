@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Coffey v. Ripple Labs - remand motion may be interesting"
+title:  "Coffey v. Ripple Labs - remand motion may resolve the securities question"
 date:   2018-07-07 11:23:00 -0700
 categories: ICOs securities
 excerpt: The plaintiff's recent filing may trigger early findings as to whether Ripple's tokens are securities.
 ---
 
-Here's an early update in _Coffey v. Ripple_.  Plaintiff recently filed a motion to remand from federal court back to state court, which may trigger early findings as to whether Ripple's tokens are securities -- earlier than I originally thought.
+Here's an early update in _Coffey v. Ripple_.  Plaintiff recently [filed a motion](/assets/pdf/2018-06-27-ripple-pl-mtn-remand.pdf) to remand from federal court back to state court, which may trigger early findings as to whether Ripple's tokens are securities -- earlier than I originally thought.
 
 ## Where we are in the case
 
